@@ -8,12 +8,13 @@ window.removeEventListener("click", playMusicOnce);
 window.addEventListener("click", playMusicOnce);
 
 const messages = [
-  "Em là vũ trụ của anh",
-  "Tình yêu bất tận giữa các vì sao",
-  "Em là ngôi sao sáng nhất",
-  "Anh tỏa sáng là vì em",
-  "Em thật tỏa sáng trên bầu trời của anh"
+  "Chúc em 20/10 thật vui vẻ và rạng rỡ như chính nụ cười của em 💐",
+  "20/10 này, mong em luôn hạnh phúc, xinh đẹp và gặp nhiều điều may mắn 💖",
+  "Chúc cô gái anh thích có một ngày 20/10 đầy hoa, quà và những lời yêu thương 🌹",
+  "Chúc em ngày 20/10 thật đặc biệt, vì với anh – em vốn đã đặc biệt rồi ✨",
+  "Hy vọng hôm nay em nhận được thật nhiều niềm vui... và một chút tình cảm từ anh nữa 💌"
 ];
+
 const fallingTexts = [];
 
 function createFallingText() {
